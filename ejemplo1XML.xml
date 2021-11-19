@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/ALENARVAEZ/Desktop/Practica5_A171270/ejemplo1.xml"?>
+
+<motos>
+	<moto>
+		<marca>BMW</marca>
+		<precio>929000</precio>
+	</moto>
+	<moto>
+		<marca>Mercedes-Benz</marca>
+		<precio>1200000</precio>
+	</moto>
+	<moto>
+		<marca>Audi</marca>
+		<precio>810000</precio>
+	</moto>
+</motos>
