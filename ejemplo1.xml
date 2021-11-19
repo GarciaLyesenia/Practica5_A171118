@@ -1,17 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="file:/C:/Users/ALENARVAEZ/Desktop/Practica5_A171270/ejemplo1.xml"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/DELL/Desktop/PRACTICA5_A171118/ejemplo1.xml"?>
 
-<autos>
-	<auto>
+
+<motos>
+	<moto>
+		<marca>Honda</marca>
+		<precio>59000</precio>
+	</moto>
+	<moto>
+		<marca>Harley Davidson</marca>
+		<precio>327000</precio>
+	</moto>
+	<moto>
 		<marca>BMW</marca>
-		<precio>929000</precio>
-	</auto>
-	<auto>
-		<marca>Mercedes-Benz</marca>
-		<precio>1200000</precio>
-	</auto>
-	<auto>
-		<marca>Audi</marca>
-		<precio>810000</precio>
-	</auto>
-</autos>
+		<precio>23500</precio>
+	</moto>
+</motos>
